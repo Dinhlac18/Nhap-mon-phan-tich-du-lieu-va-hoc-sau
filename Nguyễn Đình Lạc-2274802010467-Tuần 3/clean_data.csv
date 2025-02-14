@@ -1,9 +1,0 @@
-customer_id,name,age,gender,dob,income,email
-101,Nguyen Van A,25.0,Male,1998-05-22,1200.0,a@example.com
-102,Tran Thi B,42.0,Female,1981-07-14,4500.0,b@example.com
-103,Le Van C,27.0,Unknown,,3200.0,c@example.com
-104,Hoang Minh D,27.0,Female,,3850.0,d@example.com
-107,Bui Thi G,29.0,Female,,3800.0,g@example.com
-108,Dang Van H,40.0,Female,1990-01-29,4200.0,h@example.com
-109,Vo Thi I,27.0,Male,1995-04-10,3900.0,i@example.com
-110,Phan Van J,22.0,Unknown,1999-12-20,3850.0,j@example.com
