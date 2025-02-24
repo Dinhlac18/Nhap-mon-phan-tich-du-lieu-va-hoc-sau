@@ -1,0 +1,6 @@
+ID,Age,Weight,Sex,Firstname,Lastname,Sex_m1,Time_m1,PulseRate_m1,Sex_m2,Time_m2,PulseRate_m2,Sex_m3,Time_m3,PulseRate_m3,Sex_m4,Time_m4,PulseRate_m4,Sex_m5,Time_m5,PulseRate_m5
+1,25.0,70.0,Male,Nguyen,Van A,M,1218,120.0,M,1310,140.0,M,1216,130.0,M,1224,135.0,M,1309,150.0
+2,30.0,75.0,Female,Tran,Thi B,F,1119,105.0,F,1018,125.0,F,0917,110.0,,,120.0,F,1208,110.0
+3,35.0,80.0,Male,Le,Van C,M,1009,115.0,M,0910,135.0,,,125.0,M,1013,120.0,M,1110,140.0
+4,40.0,71.25,Male,Pham,Minh D,M,1220,130.0,,,130.0,M,1208,125.0,M,1132,130.0,M,1109,125.0
+5,32.5,60.0,Female,Hoang,Anh E,F,1138,120.0,F,1108,130.0,F,1117,120.0,F,1009,135.0,F,1029,130.0
